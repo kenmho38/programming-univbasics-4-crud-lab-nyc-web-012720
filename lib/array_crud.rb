@@ -10,8 +10,8 @@ end
 
 
 def add_element_to_end_of_array(array, element)
-   ["one", "two", "three", "four"]
-  add_element_to_end_of_array.push("five") 
+   array = ["one", "two", "three", "four"]
+   array.push("five") 
 end
 
 def add_element_to_start_of_array(array, element)
