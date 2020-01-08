@@ -34,12 +34,12 @@ end
 
 def retrieve_first_element_from_array(array)
     array = ["arrays!", "two", "am", "wow"]
-    array[0]
+    array[-1]
 end
 
 def retrieve_last_element_from_array(array)
     array = ["arrays!", "two", "am", "wow"]
-    array[-1]
+    array[0]
 end
 
 def update_element_from_index(array, index_number, element)
