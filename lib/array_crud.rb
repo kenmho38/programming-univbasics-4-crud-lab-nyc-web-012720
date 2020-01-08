@@ -4,7 +4,7 @@ end
 
 
 def create_an_array(["one", "two", "three", "four"])
-   puts create_an_array
+   
 end   
 
 
