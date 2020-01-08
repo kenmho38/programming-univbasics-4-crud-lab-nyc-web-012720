@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-create_an_array = ["one", "two", "three", "four"]
-def create_an_array(array)
+
+def create_an_array(["one", "two", "three", "four"])
    puts create_an_array
 end   
 
